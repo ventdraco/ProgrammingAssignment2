@@ -37,4 +37,4 @@ cacheSolve <- function(x, ...) {
         
 }
 
-##new line
+##end of functions
